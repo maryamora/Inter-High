@@ -132,7 +132,7 @@ public class Solve {
                     }else{
                         present = false;
                     }
-                    counter = 1;
+                    counter = 0;
                 }
             }
             if (present){
